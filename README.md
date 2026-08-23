@@ -1,4 +1,4 @@
-# NeetCode Solutions — @KaziShahHamza
+## NeetCode Solutions - @KaziShahHamza
 
 My solutions and practice progress from the **NeetCode 250** roadmap, using **C++** to strengthen DSA fundamentals and prepare for software engineering interviews.
 
